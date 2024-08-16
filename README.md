@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/payalGund2610/payalGund2610/blob/main/IMG_20240815_131258.jpg)
 
 <h1 align="center">Hi 👋, I'm Gund Payal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
