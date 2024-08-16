@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gund Payal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img aline="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/0cb6b7c9-29a0-4b3c-a43e-3c0ee239f607)">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=payalgund2610&label=Profile%20views&color=0e75b6&style=flat" alt="payalgund2610" /> </p>
 
 - 🔭 I’m currently working on **College website**
