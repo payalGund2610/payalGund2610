@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **College website**
 
-- 🌱 I’m currently learning **HTML CSS Java**
+- 🌱 I’m currently ye learning **HTML CSS Java**
 
 - 👯 I’m looking to collaborate on **Dynamic website**
 
